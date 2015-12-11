@@ -1,0 +1,7 @@
+Node script that monitored our Visual Studio Online TFS build, and set a trafficlight depending on the latest build status.
+
+To get started:
+
+- run "npm install"
+- edit config.js with your VSO project name and credentials
+- run "nodejs monitor.js"
